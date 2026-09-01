@@ -2,8 +2,8 @@
     "version":  "1.0.16",
     "release_date":  "2026-09-01",
     "download_url":  "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.16/SHEIN-Operations-Assistant-1.0.16-Windows-x64.exe",
-    "file_size":  111225591,
-    "file_hash":  "204a5c6f79063d0e5dae8ab13b35776f9f767f414a225ae665493b98c5d6138e",
+    "file_size":  111222589,
+    "file_hash":  "4392871e9a0b0a9a7ba1a5a7fba8b8836f1172d4723addf968e045be1064ccbd",
     "changelog":  "新增自动更新功能；完善反馈、开发者中心、错误监测和使用统计；补全源码依赖与项目文档。",
     "force_update":  false,
     "min_supported_version":  ""
