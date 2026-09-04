@@ -1,10 +1,24 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "release_date": "2026-09-04",
-  "download_url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.18/SHEIN-Operations-Assistant-1.0.18-Windows-x64.exe",
-  "file_size": 122309059,
-  "file_hash": "681178ff2daa53997003b658200a38eca48a2158258c3aba0dbb82fda14016f1",
-  "changelog": "修复批量改价任务无法删除，活动报名、批量下架和批量改价按创建时间统一排序，任务中心仅任务卡列表滚动，标题和批量操作栏固定。",
+  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe",
+  "download_urls": [
+    {
+      "name": "高速镜像",
+      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe"
+    },
+    {
+      "name": "备用镜像",
+      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe"
+    },
+    {
+      "name": "GitHub直连",
+      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe"
+    }
+  ],
+  "file_size": 122316125,
+  "file_hash": "42453d8ef85f36c29f13ca2ebfd1430fe2e53cee97425f1807b30f496a552f51",
+  "changelog": "修复更新安装包下载失败：新增高速镜像、备用镜像和 GitHub 直连自动切换；侧栏新增普通用户可见的更新入口，持续显示新版本、下载中和待安装状态；自动检查调整为每次启动及运行期间每2小时一次。",
   "force_update": false,
   "min_supported_version": ""
 }
