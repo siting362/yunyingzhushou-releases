@@ -1,24 +1,24 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "release_date": "2026-09-04",
-  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe",
+  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe",
   "download_urls": [
     {
       "name": "高速镜像",
-      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe"
+      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe"
     },
     {
       "name": "备用镜像",
-      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe"
+      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe"
     },
     {
       "name": "GitHub直连",
-      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.19/SHEIN-Operations-Assistant-1.0.19-Windows-x64.exe"
+      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe"
     }
   ],
-  "file_size": 122316125,
-  "file_hash": "42453d8ef85f36c29f13ca2ebfd1430fe2e53cee97425f1807b30f496a552f51",
-  "changelog": "修复更新安装包下载失败：新增高速镜像、备用镜像和 GitHub 直连自动切换；侧栏新增普通用户可见的更新入口，持续显示新版本、下载中和待安装状态；自动检查调整为每次启动及运行期间每2小时一次。",
+  "file_size": 122311152,
+  "file_hash": "4c46007b3a52f70f3fe3516fd6b2376092c2c5bf97675f8131d7fc62366d99c6",
+  "changelog": "内置统一企微 Webhook：新安装和未自定义配置的用户无需进入开发者中心，即可自动推送程序启动、功能执行、最终失败、高频错误、用户反馈和每日汇总；本机仍可设置自定义地址覆盖默认值。",
   "force_update": false,
   "min_supported_version": ""
 }
