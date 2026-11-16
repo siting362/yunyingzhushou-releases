@@ -1,24 +1,24 @@
 {
-  "version": "1.0.20",
-  "release_date": "2026-09-04",
-  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe",
+  "version": "1.2.0",
+  "release_date": "2026-11-16",
+  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe",
   "download_urls": [
     {
       "name": "高速镜像",
-      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe"
+      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe"
     },
     {
       "name": "备用镜像",
-      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe"
+      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe"
     },
     {
       "name": "GitHub直连",
-      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.0.20/SHEIN-Operations-Assistant-1.0.20-Windows-x64.exe"
+      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe"
     }
   ],
-  "file_size": 122311152,
-  "file_hash": "4c46007b3a52f70f3fe3516fd6b2376092c2c5bf97675f8131d7fc62366d99c6",
-  "changelog": "内置统一企微 Webhook：新安装和未自定义配置的用户无需进入开发者中心，即可自动推送程序启动、功能执行、最终失败、高频错误、用户反馈和每日汇总；本机仍可设置自定义地址覆盖默认值。",
+  "file_size": 111376137,
+  "file_hash": "9bf96755cb429f9851b7b7253a445fc6ce017df49e94fc8869206e0f8f20b2bd",
+  "changelog": "SHEIN 店铺运营助手 1.2.0 正式版\n\n- 以验收后的测试版作为新正式版完整功能基线。\n- 支持新品与大促营销活动、多店处理、网页及官方Excel报名，以及仅预演或预演通过后自动报名。\n- 完善自运营和半托管报价兼容、普通档/VIP档校验及可定位错误提示。\n- 改进批量改价、价格预校验和任务恢复；活动Excel处理移至后台进程，减少大表预演时界面无响应。\n- 修复新品普通档字段缺省导致的提交误拦截，并改善Windows启动稳定性。\n\n升级与数据\n\n正式版继续使用本机正式版数据目录。安装包仅包含程序、依赖和通用模板，不包含开发电脑的店铺数据、任务记录、登录信息或个人通知地址。测试版数据不会随安装包分发。1.0.20作为旧版归档保留。\n\nWindows x64安装包。发布前197项测试通过，并完成打包程序启动和本机数据迁移验证。\n",
   "force_update": false,
   "min_supported_version": ""
 }
