@@ -1,24 +1,24 @@
 {
-  "version": "1.2.0",
-  "release_date": "2026-11-16",
-  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe",
+  "version": "1.2.1",
+  "release_date": "2026-11-17",
+  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.1/SHEIN-Operations-Assistant-1.2.1-Windows-x64.exe",
   "download_urls": [
     {
       "name": "高速镜像",
-      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe"
+      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.1/SHEIN-Operations-Assistant-1.2.1-Windows-x64.exe"
     },
     {
       "name": "备用镜像",
-      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe"
+      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.1/SHEIN-Operations-Assistant-1.2.1-Windows-x64.exe"
     },
     {
       "name": "GitHub直连",
-      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.0/SHEIN-Operations-Assistant-1.2.0-Windows-x64.exe"
+      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.1/SHEIN-Operations-Assistant-1.2.1-Windows-x64.exe"
     }
   ],
-  "file_size": 111376137,
-  "file_hash": "9bf96755cb429f9851b7b7253a445fc6ce017df49e94fc8869206e0f8f20b2bd",
-  "changelog": "SHEIN 店铺运营助手 1.2.0 正式版\n\n- 以验收后的测试版作为新正式版完整功能基线。\n- 支持新品与大促营销活动、多店处理、网页及官方Excel报名，以及仅预演或预演通过后自动报名。\n- 完善自运营和半托管报价兼容、普通档/VIP档校验及可定位错误提示。\n- 改进批量改价、价格预校验和任务恢复；活动Excel处理移至后台进程，减少大表预演时界面无响应。\n- 修复新品普通档字段缺省导致的提交误拦截，并改善Windows启动稳定性。\n\n升级与数据\n\n正式版继续使用本机正式版数据目录。安装包仅包含程序、依赖和通用模板，不包含开发电脑的店铺数据、任务记录、登录信息或个人通知地址。测试版数据不会随安装包分发。1.0.20作为旧版归档保留。\n\nWindows x64安装包。发布前197项测试通过，并完成打包程序启动和本机数据迁移验证。\n",
+  "file_size": 111376433,
+  "file_hash": "1a1d2c0f762354bc17a6f2a73467bc4e43d2af0f431f9fc6a8196ca6e59782e2",
+  "changelog": "SHEIN 店铺运营助手 1.2.1\n\n- 新品和大促的默认降幅由平台自动生成，程序不再自行推算最低值，也不要求不同价格基准的降幅字段相等。\n- 页面有普通档/VIP档时才选择档位，无档位新品使用平台默认最低降幅入口或已生成默认值。\n- 用户指定降幅时填写指定值，由平台校验；程序不擅自改值，不按自算区间排除商品。Excel默认保留官方模板值，指定模式填写用户值。\n- 保留店铺、场次、商品范围、币种、档位和指定值核对；预演不正式提交，回执不明确不自动重发。\n\n升级保留本机数据。安装包不包含店铺数据库、任务记录、登录状态和个人通知密钥。1.2.0历史安装包继续保留。\n\n207项自动化测试通过；新品与大促默认/指定模式，以及200个SKC、1205个SKU的大批量安全预演通过，验证均未正式报名。\n",
   "force_update": false,
   "min_supported_version": ""
 }
