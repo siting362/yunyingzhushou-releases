@@ -1,24 +1,24 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "release_date": "2026-11-18",
-  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.2/SHEIN-Operations-Assistant-1.2.2-Windows-x64.exe",
+  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.3/SHEIN-Operations-Assistant-1.2.3-Windows-x64.exe",
   "download_urls": [
     {
       "name": "高速镜像",
-      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.2/SHEIN-Operations-Assistant-1.2.2-Windows-x64.exe"
+      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.3/SHEIN-Operations-Assistant-1.2.3-Windows-x64.exe"
     },
     {
       "name": "备用镜像",
-      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.2/SHEIN-Operations-Assistant-1.2.2-Windows-x64.exe"
+      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.3/SHEIN-Operations-Assistant-1.2.3-Windows-x64.exe"
     },
     {
       "name": "GitHub直连",
-      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.2/SHEIN-Operations-Assistant-1.2.2-Windows-x64.exe"
+      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.3/SHEIN-Operations-Assistant-1.2.3-Windows-x64.exe"
     }
   ],
-  "file_size": 111378483,
-  "file_hash": "da813ac3b0a4921a87ea734023741d9572bf102e5d7ee6694723bcb918f6c4be",
-  "changelog": "用户确认执行后，以平台当前状态为准。已经提交过的商品，只要平台仍列为可报名，就可重新报名。历史报名记录与回执继续保留。\n\n升级保留本机数据。安装包适用于 Windows 64 位。\n",
+  "file_size": 111384498,
+  "file_hash": "57ffa12752369e4e62fa130753e0671c96e79e8c093df8ef391e54424195a0ba",
+  "changelog": "普通用户可在「问题反馈」保存使用人标识。企微消息同时显示标识和原用户 ID。\n\n补齐新品和大促的任务开始、结束通知及每日统计，单独显示待核对状态。反馈表和开发者中心支持当前的活动场景。\n\n支持 Windows 64 位，升级保留本机数据。\n",
   "force_update": false,
   "min_supported_version": ""
 }
