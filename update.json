@@ -1,24 +1,24 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "release_date": "2026-11-18",
-  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.5/SHEIN-Operations-Assistant-1.2.5-Windows-x64.exe",
+  "download_url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.6/SHEIN-Operations-Assistant-1.2.6-Windows-x64.exe",
   "download_urls": [
     {
       "name": "高速镜像",
-      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.5/SHEIN-Operations-Assistant-1.2.5-Windows-x64.exe"
+      "url": "https://gh-proxy.com/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.6/SHEIN-Operations-Assistant-1.2.6-Windows-x64.exe"
     },
     {
       "name": "备用镜像",
-      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.5/SHEIN-Operations-Assistant-1.2.5-Windows-x64.exe"
+      "url": "https://ghfast.top/https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.6/SHEIN-Operations-Assistant-1.2.6-Windows-x64.exe"
     },
     {
       "name": "GitHub直连",
-      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.5/SHEIN-Operations-Assistant-1.2.5-Windows-x64.exe"
+      "url": "https://github.com/siting362/yunyingzhushou-releases/releases/download/v1.2.6/SHEIN-Operations-Assistant-1.2.6-Windows-x64.exe"
     }
   ],
-  "file_size": 111380799,
-  "file_hash": "c591abfa6ef6575016095e244ad16e9d732ada32f77194e0c3972da6cdb46fd7",
-  "changelog": "修复大促官方 Excel 上传在平台省略站点字段时被误拦截的问题。继续核对登录店铺、站点、活动和文件内容，拒绝明确传错的站点。\n\n通过 208 项自动化测试，并验证平台可接收这一类 Excel 上传。\n\n支持 Windows 64 位，升级保留本机数据。\n",
+  "file_size": 111380150,
+  "file_hash": "ad89ff7e0f844ae1b93b0b12d50c0d3f3353c023fab0256f6e3fe7a50c30a147",
+  "changelog": "更新下载前并行测速，优先使用最先完成试读的线路。线路失败后自动切换，安装前继续校验安装包大小与 SHA-256。\n\n支持 Windows 64 位，升级保留本机数据。",
   "force_update": false,
   "min_supported_version": ""
 }
